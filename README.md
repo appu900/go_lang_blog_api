@@ -1,1 +1,1 @@
-# go_lang_blog_api
+# blog_api_golang
